@@ -1,0 +1,19 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+  .App{
+    font-family: 'Poppins', sans-serif;
+    
+  }
+  
+  .fs13{
+    font-size:13px;
+  }
+  .fs15{
+    font-size: 15px
+  }
+  .bg-blue{
+    background-color: #f0f8ff;
+  }
+  .curs{
+    cursor: pointer;
+  }

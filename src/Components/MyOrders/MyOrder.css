@@ -1,0 +1,17 @@
+.fs-bold{
+    font-weight: bolder;
+}
+.subtabs ul li{ 
+    display: inline;
+    margin-right: 20px;
+    padding: 5px;
+}
+.subtabs ul{
+   border-top: 1px solid black;
+   margin-top: 20px; 
+   padding: 10px;   
+}
+.active-tab{
+    border-bottom: 5px solid orange;
+    bottom: 0;
+}

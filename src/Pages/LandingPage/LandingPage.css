@@ -1,0 +1,29 @@
+.landing-container{
+    margin-top: 10px;
+    width: 100%;  
+    height: calc(80vh-60px);  
+}
+.landpage-container .card-container{
+    background-color: aliceblue;
+    height: 250px;
+    width: 200px; 
+}
+.landpage-container .card-container .img-container{
+    height: 160px;
+    width: 200px;
+    padding: 5px;
+}
+.landpage-container .card-container .caption-container{
+    width: 200px;
+    padding: 5px;
+}
+.landpage-container .card-container .img-container img{
+    height: 150px;
+    width: 180px;
+}
+.landpage-container .card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+

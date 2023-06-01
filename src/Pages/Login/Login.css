@@ -1,0 +1,37 @@
+.con{
+    display: flex;
+    flex-wrap: wrap;
+}
+.lg-form{ 
+   margin: 20vh auto 0 auto; 
+   max-width: 350px;
+} 
+.frm-control{
+    display : flex;
+    padding: 10px;
+    margin: 15px;
+    width: 100%;
+    border-radius: 3px; 
+    border: 1px solid ;
+}
+.lg-form .lg-btn{
+  color: #774582;
+  font-weight: bolder;
+  background-color: #ffbe58;
+} 
+.lg-form .lg-btn:hover{
+    color: #ffbe58;
+    font-weight: bolder;
+    background-color: #774582;
+  } 
+.img-con img{
+    margin: 5vh auto 0 auto;
+    max-width: 700px;
+    height: 100%;
+}
+@media (max-width: 765px)
+{
+    .img-con{
+        display: none;
+    }
+}
